@@ -12,6 +12,26 @@ https://www.tarikbulbulusic.com
 
 ---
 
+## Screenshots
+
+### Home
+
+![Home](home.jpg)
+
+### Projects
+
+![Projects](projects.jpg)
+
+### Work
+
+![Work](work.jpg)
+
+### Contact
+
+![Contact](contact.jpg)
+
+---
+
 ## Technologies
 
 - Next.js
